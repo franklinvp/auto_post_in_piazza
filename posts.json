@@ -1,0 +1,72 @@
+{
+  "2025-03-25": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at roots of unity and its applications."
+    }
+  ],
+  "2025-03-26": [
+    {
+      "classID": "m8lo7g5t4qv7ah",
+      "subject": "Wednesday test",
+      "content": "Blah blah blah"
+    }
+  ],
+  "2025-04-01": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Geometry and planimetry"
+    }
+  ],
+  "2025-04-08": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Coordinates"
+    }
+  ],
+  "2025-04-15": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Linear algebra and Vector calculus 1"
+    }
+  ],
+  "2025-04-22": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Linear algebra and Vector calculus 2"
+    }
+  ],
+  "2025-04-29": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Linear algebra and Vector calculus 3"
+    }
+  ],
+  "2025-05-06": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Linear algebra and Vector calculus 4"
+    }
+  ],
+  "2025-05-13": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Linear algebra and Vector calculus 5"
+    }
+  ],
+  "2025-05-20": [
+    {
+      "classID": "m5hbugfu4i19h",
+      "subject": "Weekly announcement",
+      "content": "This Saturday we will be looking at Topology and limits on the real line"
+    }
+  ]
+}

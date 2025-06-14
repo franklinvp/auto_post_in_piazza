@@ -1,4 +1,6 @@
-## How to use
+No needed anymore, since Piazza finally added schedulling posts.
+
+<strike>## How to use</strike>
 
 1. Create a Python virtual environment with `python -m venv venv`
 2. Install piazza_api with `pip install piazza_api`
